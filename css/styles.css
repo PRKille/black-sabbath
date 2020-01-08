@@ -1,0 +1,10 @@
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: black;
+  color: whitesmoke;
+}
+.column {
+  width: 300px;
+  float: left;
+}
